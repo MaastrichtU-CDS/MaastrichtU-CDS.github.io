@@ -36,4 +36,4 @@ It describes outcome prediction models we have developed over the years
 * Nomogram
 
 ## Links
-* (https://doi.org/10.1016/j.ijrobp.2008.08.052)
+* [Dehing-Oberije et al. 2008](https://doi.org/10.1016/j.ijrobp.2008.08.052)
