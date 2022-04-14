@@ -1,6 +1,6 @@
 ---
 title: Clinical Data Science
-description: Clinical Data Science group at Maastricht University, Maastricht UMC+ and Maastro Clinic
+description:  Maastricht University, Maastricht UMC+ and Maastro Clinic
 ---
 
 Welcome at the (temporary) website of the Clinical Data Science group at Maastricht University, Maastricht UMC+ and Maastro Clinic.
