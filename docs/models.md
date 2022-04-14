@@ -7,6 +7,8 @@ Welcome at the model website of the Clinical Data Science group at Maastricht Un
 
 It describes outcome prediction models we have developed over the years
 
+* [Lung cancer - Overall survival - 2008](models.md#lung-cancer---overall-survival---2008)
+
 # Lung cancer - Overall survival - 2008 
 ## Outcome
 * Two year overall survival
