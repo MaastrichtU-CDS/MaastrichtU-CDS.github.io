@@ -2,7 +2,6 @@
 title: Clinical Data Science
 description: Projects
 ---
-
 Welcome at the project website of the Clinical Data Science group at Maastricht University, Maastricht UMC+ and Maastro Clinic.
 * [euroCAT](projects.md#euroCAT)
 * [TRAIN](projects.md#TRAIN)
@@ -27,9 +26,10 @@ Welcome at the project website of the Clinical Data Science group at Maastricht 
 ## Funding
 ## Links 
 
-# <a name="ARGOS"></a>ARGOS
+# ARGOS
 ## Description
 The ARGOS (ARtificial intelligence for Gross tumour vOlume Segmentation) project aims to update a pre-trained Lung Cancer (LC) Gross Tumor Volume (GTC) AI (i.e. a deep-learning neural network)  algorithm,  using  a  massive  number  of  decentralized  retrospectively-curated radiotherapy planning CT delineations from several leading radiotherapy centres throughout Europe, Asia, Oceania, South and North America. The initial objective will be an updated AI algorithm that autosegments the LC primary GTV that is mostly or entirely contained in the lung parenchyma. We will also independently validate the globally-trained model on distributed holdout validation sets. For  this  first  version  of  the  ARGOS  project,  we  will  not  attempt  to  delineate  involved mediastinal lymph nodes. If the present objective is successful, we expect to apply the same architecture for more complex deep-learning related tasks such as lymph node delineation, fusion PET-CT autosegmentation, deep learning radiomics, and others. 
+![ARGOS Oct 2021](media/ARGOS_Oct2021_partners_snapshot.png)
 ## Partners
 - Maastro Clinic, Maastricht, The Netherlands
 - Universitaire Ziekenhuizen Leuven, Leuven, Belgium
