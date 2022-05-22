@@ -4,6 +4,10 @@ description: Projects
 ---
 
 Welcome at the project website of the Clinical Data Science group at Maastricht University, Maastricht UMC+ and Maastro Clinic.
+* [euroCAT](projects.md#euroCAT)
+* [TRAIN](projects.md#TRAIN)
+* [CARRIER](projects.md#CARRIER)
+* [ARGOS](projects.md#ARGOS)
 
 # euroCAT
 ## Description
