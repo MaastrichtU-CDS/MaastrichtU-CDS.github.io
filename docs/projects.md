@@ -23,7 +23,7 @@ Welcome at the project website of the Clinical Data Science group at Maastricht 
 ## Funding
 ## Links 
 
-# ARGOS
+# <a name="ARGOS"></a>ARGOS
 ## Description
 The ARGOS (ARtificial intelligence for Gross tumour vOlume Segmentation) project aims to update a pre-trained Lung Cancer (LC) Gross Tumor Volume (GTC) AI (i.e. a deep-learning neural network)  algorithm,  using  a  massive  number  of  decentralized  retrospectively-curated radiotherapy planning CT delineations from several leading radiotherapy centres throughout Europe, Asia, Oceania, South and North America. The initial objective will be an updated AI algorithm that autosegments the LC primary GTV that is mostly or entirely contained in the lung parenchyma. We will also independently validate the globally-trained model on distributed holdout validation sets. For  this  first  version  of  the  ARGOS  project,  we  will  not  attempt  to  delineate  involved mediastinal lymph nodes. If the present objective is successful, we expect to apply the same architecture for more complex deep-learning related tasks such as lymph node delineation, fusion PET-CT autosegmentation, deep learning radiomics, and others. 
 ## Partners
