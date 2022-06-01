@@ -24,7 +24,7 @@ Prediction of a future health outcomes of an individual, like survival in a canc
 We introduce artificial intelligence applications to improve health of citizens and patients and improve health care. Depending on the applications this can take many forms. For instance we develop patient facing apps and websites where patients can use our outcome prediction models. We also develop plugins for Electronic Health Records that allow for decision support for health care professionals and shared decision making with patients. Making sure AIs are well understood by skilled and non-skilled users and are safe to use are important research topics in our group. We have also developed and apply methods to evaluate what effect an AI has on efficiency and outcomes. We often work closely with companies as AI applications are medical devices which need to be developed by professional providers and certified before they can be used (e.g. CE mark or FDA approval).
 
 # People
-Please find here an overview of the people that are or were part of Clinical Data Science: [People](people.md)
+Please find here an overview of the people that are or were part of Clinical Data Science: [Staff](staff.md)
 
 # Research projects
 In projects we usually combine our research themes to meet the deliverables. We work in a variety of clinical settings including oncology, cardiology, neurodegenerative diseases and irritable bowel disease and in both in care and prevention. Please visit our project page for information on our past and current projects. [Projects](projects.md)
