@@ -1,11 +1,11 @@
 ---
 title: Clinical Data Science
-description: Andre Dekker
+description: Johan van Soest
 ---
-[![Andre Dekker](../media/AndreDekker.jpg)]
 # Biography
 
 # Research focus
+Information exchange, data warehouse, FAIR prediction models, impact, tool engineering
 
 # Publications
 

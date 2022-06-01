@@ -1,11 +1,12 @@
 ---
 title: Clinical Data Science
-description: Andre Dekker
+description: Inigo Bermejo
 ---
-[![Andre Dekker](../media/AndreDekker.jpg)]
+[![Inigo Bermejo](../media/InigoBermejo.jpg)]
 # Biography
 
 # Research focus
+Causal inference, treatment effects, cardiology
 
 # Publications
 

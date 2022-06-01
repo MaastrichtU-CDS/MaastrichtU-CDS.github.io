@@ -1,11 +1,11 @@
 ---
 title: Clinical Data Science
-description: Andre Dekker
+description: Rianne Fijten
 ---
-[![Andre Dekker](../media/AndreDekker.jpg)]
 # Biography
 
 # Research focus
+Impact, leadership, implementation, decision making, qualitative research, medical AI
 
 # Publications
 
